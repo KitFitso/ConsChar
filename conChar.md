@@ -4,7 +4,7 @@ _medium Humanoid, neutral neutral_
 
 **Armor Class** : 10
 
-**Hit Points** : 19
+**Hit Points** : 19 (3d6)
 
 **Speed** : 30 ft.
 
@@ -63,9 +63,13 @@ You can use your sorcery points to gain additional spell slots, or sacrifice spe
 Creating Spell Slots. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
 
 A 1st level Spell Slot cost 2 Sorcery Points
+
 A 2nd level Spell Slot cost 3 Sorcery Points
+
 A 3rd level Spell Slot cost 5 Sorcery Points
+
 A 4th level Spell Slot cost 6 Sorcery Points
+
 A 5th level Spell Slot cost 7 Sorcery Points
 
 Converting a Spell Slot to Sorcery Points. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot’s level.
@@ -87,8 +91,11 @@ if you run out of spells you can cast more by rolling on the wild magic table. y
 ## Actions
 
 **_Great Hammer ._** _Melee Weapon Attack:_ +5. _Hit:_ 1d12 +3 damage
+
 **_Dagger._** _Melee Weapon Attack:_ +5. _Hit:_ damage 1d4 +3 damage
+
 **_Spell._** _Melee Weapon Attack:_ Check Range. youe spell saving throw is 13 _Hit:_ check damage.
+
 **_Use a wand._** _Ranged Weapon Attack:_ 30 ft +5. _Hit:_ random based on spell made
 
 ## Bonus Actions
@@ -97,7 +104,7 @@ if you run out of spells you can cast more by rolling on the wild magic table. y
 
 ## Equipment
 
-- 1 **magic waterskin**
+- 1 Immovable Rod
 - 1 Backpack
 - 2 Handaxe
 - 10 torches
