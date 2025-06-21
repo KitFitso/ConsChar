@@ -104,7 +104,7 @@ if you run out of spells you can cast more by rolling on the wild magic table. y
 
 ## Equipment
 
-- 1 **magic waterskin**
+- 1 Immovable Rod
 - 1 Backpack
 - 2 Handaxe
 - 10 torches
