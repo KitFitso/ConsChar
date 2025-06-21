@@ -4,7 +4,7 @@ _medium Humanoid, neutral neutral_
 
 **Armor Class** : 10
 
-**Hit Points** : 19 (d6)
+**Hit Points** : 19 (3d6)
 
 **Speed** : 30 ft.
 
